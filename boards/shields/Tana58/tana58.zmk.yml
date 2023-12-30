@@ -1,0 +1,11 @@
+file_format: "1"
+id: tana58
+name: Tana58
+type: shield
+url: https://github.com/SDodding/tana58_zmk
+requires: [pro_micro]
+features:
+  - keys
+siblings:
+  - tana58_left
+  - tana58_right

@@ -1,0 +1,16 @@
+if SHIELD_TANA58_LEFT
+
+config ZMK_KEYBOARD_NAME
+    default "Tana58"
+
+config ZMK_SPLIT_ROLE_CENTRAL
+    default y
+
+endif
+
+if SHIELD_TANA58_LEFT || SHIELD_TANA58_RIGHT
+
+config ZMK_SPLIT
+    default y
+
+endif
