@@ -1,4 +1,4 @@
-## Tanja 58 Firmware
+## Tana 58 Firmware
 
 Builds the default configuration and keymap for the [Tana58](https://github.com/SDodding/tana58) keyboard.
 
